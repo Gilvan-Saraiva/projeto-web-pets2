@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "GqjiKVWBTbyrKGcrkAxOG/4hOOR39KrDKEzMIFPtAn8=",
+  "Source": "projeto web pets2",
+  "BasePath": "_content/projeto web pets2",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projeto web pets2\\wwwroot",
+      "Source": "projeto web pets2",
+      "ContentRoot": "C:\\Users\\junio\\Documents\\senai\\projeto web pets2\\wwwroot\\",
+      "BasePath": "_content/projeto web pets2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\junio\\Documents\\senai\\projeto web pets2\\wwwroot\\index.html",
+      "SourceId": "projeto web pets2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\junio\\Documents\\senai\\projeto web pets2\\wwwroot\\",
+      "BasePath": "_content/projeto web pets2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

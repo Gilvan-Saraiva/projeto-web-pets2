@@ -1,0 +1,13 @@
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\projeto web pets2.exe
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\appsettings.json
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\projeto web pets2.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\projeto web pets2.deps.json
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\projeto web pets2.runtimeconfig.json
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\projeto web pets2.pdb
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\junio\Documents\senai\projeto web pets2\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
